@@ -19,6 +19,13 @@ A new Flutter project.
 ##### - Display stored/added wallpapers in favoritePage
 
 # OUTPUT:
+
+
+
+https://github.com/KRISHA-SALIYA/core_flutter_practical_1/assets/149802459/8f73395d-6bac-4cd7-8dc9-37a299cc0f13
+
+
+
 ![WhatsApp Image 2024-02-13 at 14 27 02_718fb404](https://github.com/KRISHA-SALIYA/core_flutter_practical_1/assets/149802459/2ac03013-1269-491e-9feb-1840f1d35f1c)
 
 ![WhatsApp Image 2024-02-13 at 14 27 02_9bff406e](https://github.com/KRISHA-SALIYA/core_flutter_practical_1/assets/149802459/76be2d96-c4b7-4bd8-a7e7-d3f39506a75c)
